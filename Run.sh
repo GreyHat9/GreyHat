@@ -1,0 +1,1 @@
+sudo apt install -y git wget figlet toilet curl python python2 python3 python-pip python3-pip zip apache2 curl php nmap ruby

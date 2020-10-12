@@ -1,0 +1,11 @@
+[+] sudo fdisk -l
+
+[+] sudo mkdir -p /mnt/GreyHat
+
+[+] sudo mount /dev/sdb3 /mnt/GreyHat
+
+[+] sudo nano /mnt/GreyHat/persistence.conf
+
+[+] echo "/ union" > /mnt/GreyHat/persistence.conf
+
+[+] sudo umount /dev/sdb3

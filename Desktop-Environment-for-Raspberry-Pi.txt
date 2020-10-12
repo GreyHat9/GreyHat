@@ -1,0 +1,3 @@
+[+] apt install xserver-xorg raspberrypi-ui-mods lightdm
+
+[+] update-alternatives --config x-session-manager
