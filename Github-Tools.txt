@@ -13,17 +13,3 @@
 [+] https://github.com/GreyHat9/Bomber.git
 
 [+] https://github.com/GreyHat9/Camphish.git
-
-[+] https://github.com/vysecurity/DomLink.git
-
-[+] https://github.com/tomnomnom/httprobe.git
-
-[+] https://github.com/Juniorn1003/Faitagram.git
-
-[+] https://github.com/Pure-L0G1C/Instagram.git
-
-[+] https://github.com/bugbaba/ssTaker.git
-
-[+] https://github.com/jobertabma/virtual-host-discovery.git
-
-[+] https://github.com/Z4nzu/fastssh.git
